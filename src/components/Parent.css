@@ -1,0 +1,13 @@
+.result
+{
+    background-color: rgb(38, 180, 109);
+    color: white;
+    padding: 9px;
+    margin: 20px 650px;
+    align-items: center;
+    border-radius: 5px;
+    /* outline: none; */
+    border: 0px solid white;
+    cursor: pointer;
+    
+}
